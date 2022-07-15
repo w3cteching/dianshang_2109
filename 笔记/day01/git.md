@@ -119,6 +119,8 @@ git config --global user.email '2109A@126.com'
 - 码云
 - gitlab
 
+<img src="media/image-20220715180741725.png" alt="image-20220715180741725" style="zoom:50%;" />
+
 #### 3.4.2 创建远程仓库
 
  注册一个gihub或码云帐号
