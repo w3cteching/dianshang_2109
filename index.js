@@ -1,4 +1,4 @@
-let arr = [2323, 23, 23, 23]
+let arr = [2323, 23, 21113, 23]
 console.log(arr)
 
 const result=arr.map(item => {
