@@ -4,3 +4,5 @@ console.log(arr)
 const result=arr.map(item => {
     return item*2
 })
+
+conso.log(result)
